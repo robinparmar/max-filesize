@@ -1,2 +1,5 @@
 # max-filesize
-Calculates the size of a file in bytes. 
+
+A [js] function that returns the size of the file in bytes.
+
+Believe it or not, something Max doesn't have built-in. 
